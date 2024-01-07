@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/client/node_modules
+/comments/node_modules
+/event-bus/node_modules
+/infra/node_modules
+/moderation/node_modules
+/posts/node_modules
+/query/node_modules
+
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
